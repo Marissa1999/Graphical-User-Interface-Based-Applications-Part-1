@@ -1,0 +1,10 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\bin\Debug\RadioButtonsTest.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\bin\Debug\RadioButtonsTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\bin\Debug\RadioButtonsTest.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\obj\Debug\RadioButtonsTest.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\obj\Debug\RadioButtonsTest.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\obj\Debug\RadioButtonsTest.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\obj\Debug\RadioButtonsTest.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\obj\Debug\RadioButtonsTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\obj\Debug\RadioButtonsTest.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\RadioButtonsTest\RadioButtonsTest\obj\Debug\RadioButtonsTest.RadioButtonsTestForm.resources

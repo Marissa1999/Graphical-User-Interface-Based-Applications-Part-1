@@ -1,0 +1,10 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\obj\Debug\NumericUpDownTest.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\obj\Debug\NumericUpDownTest.NumericUpDownTestForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\obj\Debug\NumericUpDownTest.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\obj\Debug\NumericUpDownTest.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\obj\Debug\NumericUpDownTest.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\obj\Debug\NumericUpDownTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\NumericUpDownTest\NumericUpDownTest\obj\Debug\NumericUpDownTest.pdb

@@ -1,0 +1,10 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\bin\Debug\ToolTipTest.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\bin\Debug\ToolTipTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\bin\Debug\ToolTipTest.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.ToolTipTestForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\ToolTipTest\ToolTipTest\obj\Debug\ToolTipTest.csprojAssemblyReference.cache

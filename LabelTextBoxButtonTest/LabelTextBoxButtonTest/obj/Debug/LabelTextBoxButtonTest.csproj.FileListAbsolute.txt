@@ -1,0 +1,10 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\bin\Debug\LabelTextBoxButtonTest.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\bin\Debug\LabelTextBoxButtonTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\bin\Debug\LabelTextBoxButtonTest.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\obj\Debug\LabelTextBoxButtonTest.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\obj\Debug\LabelTextBoxButtonTest.LabelTextBoxButtonTestForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\obj\Debug\LabelTextBoxButtonTest.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\obj\Debug\LabelTextBoxButtonTest.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\obj\Debug\LabelTextBoxButtonTest.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\obj\Debug\LabelTextBoxButtonTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\LabelTextBoxButtonTest\LabelTextBoxButtonTest\obj\Debug\LabelTextBoxButtonTest.pdb

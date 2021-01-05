@@ -1,0 +1,10 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.PictureBoxTestForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.csprojAssemblyReference.cache

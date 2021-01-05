@@ -1,0 +1,10 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.PresidentialTriviaForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.SimpleEventExampleForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\SimpleEventExample\SimpleEventExample\obj\Debug\SimpleEventExample.pdb

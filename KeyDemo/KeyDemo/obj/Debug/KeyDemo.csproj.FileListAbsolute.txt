@@ -1,0 +1,10 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\bin\Debug\KeyDemo.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\bin\Debug\KeyDemo.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\bin\Debug\KeyDemo.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\obj\Debug\KeyDemo.KeyDemoForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\obj\Debug\KeyDemo.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\obj\Debug\KeyDemo.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\obj\Debug\KeyDemo.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\obj\Debug\KeyDemo.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\obj\Debug\KeyDemo.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab02\KeyDemo\KeyDemo\obj\Debug\KeyDemo.csprojAssemblyReference.cache
